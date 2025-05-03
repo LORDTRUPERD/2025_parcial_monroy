@@ -1,0 +1,3 @@
+C:/Users/Adonias/CLionProjects/2025_parcial_Monroy/cmake-build-debug/CMakeFiles/2025_parcial_Monroy.dir
+C:/Users/Adonias/CLionProjects/2025_parcial_Monroy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adonias/CLionProjects/2025_parcial_Monroy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
